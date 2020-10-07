@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Vectors", "Sort Vectors\Sort Vectors.csproj", "{9EF8C3CA-1A6B-4CBA-B9BE-04ED60D354B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF8C3CA-1A6B-4CBA-B9BE-04ED60D354B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF8C3CA-1A6B-4CBA-B9BE-04ED60D354B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF8C3CA-1A6B-4CBA-B9BE-04ED60D354B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF8C3CA-1A6B-4CBA-B9BE-04ED60D354B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB5C30E-E998-4050-B12C-0C3D3056D92B}
+	EndGlobalSection
+EndGlobal
