@@ -18,6 +18,8 @@ namespace Sort_Vectors
             foreach (int a in vet)
                 Console.WriteLine(a);
 
+            Console.WriteLine("array ordinato con successo");
+
             Console.ReadKey();
         }
     }
