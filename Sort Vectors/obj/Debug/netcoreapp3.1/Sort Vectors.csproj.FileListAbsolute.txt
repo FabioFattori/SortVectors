@@ -11,3 +11,16 @@ C:\Users\fabio.fattori\Documenti\Sort Vectors\Sort Vectors\obj\Debug\netcoreapp3
 C:\Users\fabio.fattori\Documenti\Sort Vectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.dll
 C:\Users\fabio.fattori\Documenti\Sort Vectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.pdb
 C:\Users\fabio.fattori\Documenti\Sort Vectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.genruntimeconfig.cache
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.exe
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.deps.json
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.runtimeconfig.json
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.runtimeconfig.dev.json
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.dll
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.pdb
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.csprojAssemblyReference.cache
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.AssemblyInfoInputs.cache
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.AssemblyInfo.cs
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.csproj.CoreCompileInputs.cache
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.dll
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.pdb
+C:\Users\filippo.omicini\Documents\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.genruntimeconfig.cache
