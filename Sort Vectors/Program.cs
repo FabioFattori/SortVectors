@@ -7,7 +7,7 @@ namespace Sort_Vectors
         static void Main(string[] args)
         {
             int[] vet = new int[10];
-
+            int massimo;
             Random r = new Random();
 
             for (int i = 0; i < vet.Length; i++)
@@ -20,7 +20,18 @@ namespace Sort_Vectors
 
             Console.WriteLine("array ordinato con successo");
 
+            massimo = Massimo(vet);
+            Console.WriteLine("valore massimo = " + massimo);
+
+            static int Massimo (int[] v)
+            {
+                int tmp;
+                tmp = v[v.Length - 1];
+                return tmp;
+            }
+
             Console.ReadKey();
+
         }
     }
 }
