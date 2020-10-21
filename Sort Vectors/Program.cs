@@ -6,7 +6,7 @@ namespace Sort_Vectors
     {
         static void Main(string[] args)
         {
-            int[] vet = new int[10];
+            int[] vet = new int[15];
 
             Random r = new Random();
 
@@ -19,8 +19,21 @@ namespace Sort_Vectors
                 Console.WriteLine(a);
 
             Console.WriteLine("array ordinato con successo");
-
+            Console.WriteLine("massimo: " + RicercaMassimo(vet));
             Console.ReadKey();
+        }
+
+        public static int RicercaMassimo(int[] vet)
+        {
+            int massimo = int.MinValue;
+            foreach(int a in vet)
+            {
+                if (a > massimo)
+                {
+                    massimo = a;
+                }
+            }
+            return massimo;
         }
     }
 }

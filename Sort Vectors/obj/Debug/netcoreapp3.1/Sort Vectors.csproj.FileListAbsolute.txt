@@ -11,3 +11,16 @@ C:\Users\fabio.fattori\Documenti\Sort Vectors\Sort Vectors\obj\Debug\netcoreapp3
 C:\Users\fabio.fattori\Documenti\Sort Vectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.dll
 C:\Users\fabio.fattori\Documenti\Sort Vectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.pdb
 C:\Users\fabio.fattori\Documenti\Sort Vectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.genruntimeconfig.cache
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.exe
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.deps.json
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.runtimeconfig.json
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.runtimeconfig.dev.json
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.dll
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\bin\Debug\netcoreapp3.1\Sort Vectors.pdb
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.csprojAssemblyReference.cache
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.AssemblyInfoInputs.cache
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.AssemblyInfo.cs
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.csproj.CoreCompileInputs.cache
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.dll
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.pdb
+C:\Users\fabio.fattori\Desktop\SortVectors\Sort Vectors\obj\Debug\netcoreapp3.1\Sort Vectors.genruntimeconfig.cache
